@@ -12,4 +12,4 @@ Workflux projects are not always solo endeavors! I welcome collaboration from ot
 ### Get in Touch
 I'd love to connect with you and hear your thoughts! Whether you're interested in collaborating, sharing feedback, or just saying hi, feel free to reach out. You can also join the [Workflux Discord](https://discord.gg/GxcPtwvX4P) to engage with like-minded individuals and stay updated on project developments.
 
-By: [William Sæther](https://github.com/williamsaether)
+[William Sæther](https://github.com/williamsaether)
