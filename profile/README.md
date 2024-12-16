@@ -2,7 +2,7 @@
 Here at Workflux we develop products aimed for stores and shops, our goal is to create innovative solutions that make life easier and work more efficient.
 
 ## Products
-- CodeLinker (almost ready): Organize and manage various types of codes effortlessly with our intuitive code management system.
+- CodeHub (almost ready): Organize and manage various types of codes effortlessly with our intuitive code management system.
 
 <!-- 
 - Queues (not started): Streamline customer flow and optimize service efficiency with our dynamic queue management solution.
